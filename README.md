@@ -22,7 +22,7 @@ A powerful project bootstrap tool that creates ready-to-code project structures 
 No installation required! Just clone or download the repository and run the script:
 
 ```bash
-git clone https://github.com/hexarion/bootstrap.git
+git clone https://github.com/hexarion0/bootstrap.git
 cd bootstrap
 python3 bootstrap.py
 ```
