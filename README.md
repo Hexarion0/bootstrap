@@ -2,7 +2,7 @@
 
 A powerful project bootstrap tool that creates ready-to-code project structures for multiple programming languages with proper licensing, git initialization, and sensible defaults.
 
-![GitHub](https://img.shields.io/github/license/hexarion/bootstrap)
+![GitHub](https://img.shields.io/github/license/hexarion0/bootstrap)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 
